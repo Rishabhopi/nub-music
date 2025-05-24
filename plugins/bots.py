@@ -1109,7 +1109,7 @@ async def user_client_start_handler(client, message):
            user_id=OWNER_ID
        ) if ow_id else InlineKeyboardButton(
            "Cʀᴇᴀᴛᴏʀ",
-           url=f"https://t.me/NubDockerbot"
+           url=f"https://t.me/ur_rishu_143"
        ),
        InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url=gvarstatus(client.me.id, "support") or f"https://t.me/{GROUP}")
    ],
@@ -1166,11 +1166,6 @@ async def user_client_start_handler(client, message):
 
 🎧 **Yᴏᴜʀ ᴍᴜꜱɪᴄᴀʟ ᴊᴏᴜʀɴᴇʏ ʙᴇɢɪɴꜱ ʜᴇʀᴇ**
 
-🔧 **SYSTEM STATUS**
-• **Uᴘᴛɪᴍᴇ** » `{uptime}`
-• **CPU ᴄᴏʀᴇꜱ** » `{cpu_cores}`
-• **RAM** » `{ram_total}`
-• **Dɪꜱᴋ** » `{disk_total}`
 
 ✨ **Pʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇꜱ**
 **• 8D ꜱᴜʀʀᴏᴜɴᴅ ꜱᴏᴜɴᴅ + ʜɪ-ꜰɪ**
@@ -1515,12 +1510,6 @@ async def commands_handler(client, callback_query):
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 🎧 **Yᴏᴜʀ ᴍᴜꜱɪᴄᴀʟ ᴊᴏᴜʀɴᴇʏ ʙᴇɢɪɴꜱ ʜᴇʀᴇ**
-
-🔧 **SYSTEM STATUS**
-• **Uᴘᴛɪᴍᴇ** » `{uptime}`
-• **CPU ᴄᴏʀᴇꜱ** » `{cpu_cores}`
-• **RAM** » `{ram_total}`
-• **Dɪꜱᴋ** » `{disk_total}`
 
 ✨ **Pʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇꜱ**
 **• 8D ꜱᴜʀʀᴏᴜɴᴅ ꜱᴏᴜɴᴅ + ʜɪ-ꜰɪ**
