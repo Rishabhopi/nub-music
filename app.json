@@ -12,44 +12,14 @@
     "pytgcalls"
   ],
   "env": {
-    "API_ID": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": "",
-      "required": true
-    },
-    "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": "",
-      "required": true
-    },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
       "value": "",
       "required": true
     },
-    "OWNER_ID": {
-      "description": "Telegram user ID of the bot owner",
-      "value": "6076474757",
-      "required": true
-    },
     "STRING_SESSION": {
       "description": "A Pyrogram session string for the user account",
       "value": "",
-      "required": true
-    },
-    "GROUP": {
-      "description": "Your support group username without @",
-      "value": "nub_coder_s",
-      "required": false
-    },
-    "CHANNEL": {
-      "description": "Your updates channel username without @",
-      "value": "nub_coders_updates",
-      "required": false
-    },
-    "MONGODB_URI": {
-      "description": "MongoDB connection string URI for database",
-      "value": "mongodb+srv://nubcoders:nubcoders@music.8rxlsum.mongodb.net/?retryWrites=true&w=majority&appName=music",
       "required": true
     },
     "LOGGER_ID": {
