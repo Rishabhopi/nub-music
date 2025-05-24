@@ -13,12 +13,12 @@ from fonts import *
 API_ID = os.getenv("API_ID",)
 API_HASH = os.getenv("API_HASH", "")
 STRING_SESSION = os.getenv("STRING_SESSION", "")
-GROUP = os.getenv("GROUP", "nub_coder_s")
-CHANNEL = os.getenv("CHANNEL", "nub_coders_updates")
+GROUP = os.getenv("GROUP", "ur_support07")
+CHANNEL = os.getenv("CHANNEL", "ur_rishu_143")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-OWNER_ID = os.getenv("OWNER_ID", 6076474757)
-LOGGER_ID = os.getenv("LOGGER_ID", None)
-mongodb = os.getenv("MONGODB_URI", "mongodb+srv://nubcoders:nubcoders@music.8rxlsum.mongodb.net/?retryWrites=true&w=majority&appName=music")
+OWNER_ID = os.getenv("OWNER_ID", 5738579437)
+LOGGER_ID = os.getenv("LOGGER_ID","-1001992970818")
+mongodb = os.getenv("MONGODB_URI", "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
 # Working directory
 ggg = os.getcwd()
 
